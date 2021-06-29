@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"show me the use of the next icon"
 Use the left arrow to go back!
 
